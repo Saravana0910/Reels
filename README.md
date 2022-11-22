@@ -46,9 +46,3 @@ pip install -r requirements.txt
 python main.py
 ```
 ---
-
-## Credits
-
-> Its Written by [@TheDarkW3b](https://t.me/TheDarkW3b)
-* Support Group :- https://t.me/Technology_Arena
-* Channel :- https://t.me/Dark_Hacker_X
